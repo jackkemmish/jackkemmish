@@ -4,7 +4,7 @@ Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Digital Craftsman 🎨
 --------------------
 
-I’ve been working as a Web Developer for 5 years now. Starting my career as a Junior, I have quickly progressed in my role at 7DOTS. I would describe myself as a Digital Craftsman as I have a very keen eye for detail, and very much take pride in providing an interesting digital experience brought to life by animations and usable web experiences.
+I’ve been working as a Web Developer for 5 years now. Starting my career as a Junior, I have quickly progressed in my role at 7DOTS to Senior Web Developer. I would describe myself as a Digital Craftsman as I have a very keen eye for detail, and very much take pride in providing an interesting digital experience brought to life by animations and usable web experiences.
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [jackkemmish.com](https://jackkemmish.com)
